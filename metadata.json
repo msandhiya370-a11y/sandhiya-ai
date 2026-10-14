@@ -2,5 +2,7 @@
   "name": "Schedulr - Smart Study Planner",
   "description": "Comprehensive study planner featuring intelligent schedule generation, spaced repetition, syllabus progress tracking, Pomodoro focus timer with ambient soundscapes, and exam countdowns.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
